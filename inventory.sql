@@ -1,4 +1,4 @@
-/* ENSF 409 W22 Project Example Database
+/* ENSF 409 W22 Project Database
  2022 Barcomb and Marasco
  
  Each time this file is executed, it will reset the database to the original state defined below.
