@@ -2,7 +2,7 @@
 
 ## Run the Program
 
-1. Clone Repository:
+1. Clone Repository:         
 git clone https://github.com/yousefh10/Food-Bank-Inventory-System
 
 2. Compile Program:    
