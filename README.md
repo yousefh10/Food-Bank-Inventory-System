@@ -1,6 +1,6 @@
 # Food-Bank-Inventory-System
 
-## About      
+## Description     
 
 
 ## Run the Program
